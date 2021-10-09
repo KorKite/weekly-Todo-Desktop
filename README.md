@@ -1,6 +1,7 @@
 # Weekly ToDo APP
 ## 다운로드 방법
 이 리파지토리에 [app.zip](https://github.com/KorKite/weekly-Todo-Desktop/blob/main/weektodo.app.zip) 을 눌러서 다운로드 받고 해당 .app 파일을 어플리케이션 폴더에 복사하여 사용하실 수 있습니다.
+    
     현재는 MacOS만을 지원합니다.
     윈도우의 경우, 현재 개발이 완료되었으나 UX를 다듬지 못해서 추후 출시 예정입니다.
     
