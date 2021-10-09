@@ -1,13 +1,16 @@
-# Weekly ToDo APP
+# Weekly ToDo APP BETA VERSION
 ## 다운로드 방법
 이 리파지토리에 [app.zip](https://github.com/KorKite/weekly-Todo-Desktop/blob/main/weektodo.app.zip) 을 눌러서 다운로드 받고 해당 .app 파일을 어플리케이션 폴더에 복사하여 사용하실 수 있습니다.
     
     현재는 MacOS만을 지원합니다.
     윈도우의 경우, 현재 개발이 완료되었으나 UX를 다듬지 못해서 추후 출시 예정입니다.
-    앱 사용중 발생하는 에러는 캡쳐, 에러 메시지 등과 함께
+    현재는 open Beta 버전으로 정식 출시 때는 자동 업데이트와 빗금, 아이폰 연동 등의 기능이 추가됩니다.
     
     
+## 에러메시지를 보내주세요!
+앱 사용중 발생하는 에러는 캡쳐, 에러 메시지 등과 함께
 <sta06167@g.skku.edu> 로 공유해주시면 다음 업데이트에 빠르게 반영하겠습니다.
+많은 리포트는 제게 힘이 됩니다.
     
 
 ## 개발 동기
